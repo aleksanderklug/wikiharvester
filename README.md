@@ -1,5 +1,5 @@
 # wikiharvest
-wikiharvest is a simple cli script that converts content in Wikipedia tables to CSV files..
+wikiharvest is a simple cli script that converts content in Wikipedia tables to CSV files.
 
 ## Usage
 ### Install wikiharvest
@@ -12,4 +12,4 @@ Call wikiharvest, enter a valid URL and filename when prompted and sift through 
 ```
 
 ## Sample Output
-![A screenshot of network plot](samples/ninja/out.png)
+<img width="640" alt="Screenshot 2021-10-03 at 14 10 39" src="https://user-images.githubusercontent.com/83586282/135753064-ec674c65-9f3c-4ca7-9bee-5972356159f7.png">
