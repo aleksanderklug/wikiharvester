@@ -1,4 +1,4 @@
-# About
+# wikiharvester
 wikiharvester is a minimalistic script for harvesting content in Wikipedia tables and storing it in a local CSV file
 
 ### Runing the script
