@@ -2,7 +2,7 @@
 wikiharvest is a simple cli script that converts content in Wikipedia tables to CSV files.
 
 ## Usage
-### Install wikiharvest
+### Installing wikiharvest
 ```
 $ pip install wikiharvest
 ```
