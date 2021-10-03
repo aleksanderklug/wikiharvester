@@ -6,6 +6,9 @@ Open the script, enter a valid URL and filename when prompted and sift through y
 
 ### Requirements
 bs4
+
 pandas
+
 requests
+
 cvs
